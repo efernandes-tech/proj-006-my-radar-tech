@@ -1,0 +1,19 @@
+html,
+body {
+    height: 100%;
+}
+
+.my-body-index {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #fff;
+}
+
+.my-form-username {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
